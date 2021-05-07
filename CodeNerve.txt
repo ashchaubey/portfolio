@@ -7,11 +7,11 @@ Hey There! I am Ashish Chaubey a Certified Ethical Hacker and Budding Pentester<
 Love to crack  CTF'S and boot2root boxes on tryhackme(rank:under2000)</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>My <a href="https://drive.google.com/file/d/1H_o0gm1f6k3JhddOdsmuN--iHPs3eDon/view?usp=sharing">resume</a> can shed some light on who I am </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>I have also write beginner <a href="https://d4ilyinfos3c.blogspot.com/">blog</a> and estlablish my findings there as a contribution to the Infosec Community <br><br><br>I have made some projects which you can find on my  <a href="https://github.com/ashchaubey"> Github</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<br/><br/>
+
 <span id="a">root@hackpandit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/><br/>
 <p> My Social Meida Handel <br> <a href="https://www.linkedin.com/in/hackpandit/"> # LinkedIN</a> <br> <a href="https://twitter.com/hack_pandit"># Twitter</a> </p>
 
- feel free to email me at <!-- longlonglongcomment --><a href="mailto:bugs.hackpandit@gmail.com">bugs.hackpandit@gmail.com</a> 
+feel free to email me at <!-- longlonglongcomment --><a href="mailto:bugs.hackpandit@gmail.com">bugs.hackpandit@gmail.com</a> 
 
 <span id="a">root@hackpandit</span>:<span id="b">~</span><span id="c">$</span> exit <br/><br/>
 
