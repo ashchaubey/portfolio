@@ -4,7 +4,7 @@ My Mantra: "<span id="k">Hunt B0unties Not B0oties</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Ashish Chaubey a Security Consultant From India. <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Besides this  I am  contineously learning sharping my skill in Offensive pentesting and Bugbounty Hunting. <br>
 
-Love to crack  CTF'S and boot2root.<br>
+Love to crack CTF'S and boot2root boxes.<br>
 I am OSCP,OSWP,CRTP,PNPT certified.<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 My <a href="https://drive.google.com/file/d/1g23ay6fTq45KyxLHcqH3cXrhGneeI0j-/view?usp=sharing">resume</a> can shed some light on who I am .<br> <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 I have also written beginner <a href="https://d4ilyinfos3c.blogspot.com/">blogs</a> and estlablish my findings there as a contribution to the Infosec Community.<br><br>
