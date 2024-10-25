@@ -2,7 +2,7 @@
 <span id="a">root@hackpandit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->hackpandit.txt<br/><br/>
 My Mantra: "<span id="k">Hunt B0unt!3$ N0t B00t!3$</span>". <!-- sjkfhskjf -->
 
-Hey There! I am Ashish Chaubey a Security Consultant From India. <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Besides this  I am  contineously learning sharping my skill in Offensive pentesting and Bugbounty Hunting. <br>
+Hey There! I am Ashish Chaubey a Penetration Tester From India. <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Besides this  I am  contineously learning sharping my skill in Offensive pentesting and Bugbounty Hunting. <br>
 Love to crack CTF'S and boot2root boxes.<br> 
 I am<span id="a"> OSCP,OSWP,CRTP,PNPT </span>certified. <br><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 My <a href="https://drive.google.com/file/d/1g23ay6fTq45KyxLHcqH3cXrhGneeI0j-/view?usp=sharing">resume</a> can shed some light on who I am.<br> <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
@@ -10,7 +10,7 @@ I have also written beginner <a href="https://d4ilyinfos3c.blogspot.com/">blogs<
 Besides this I have Reported Security Vulnerablity in many website which you can find in my   <a href="https://znap.link/hack_pandit"> HALL OF FAME</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 I have made some projects which you can find on my  <a href="https://github.com/ashchaubey"> Github</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <span id="a">root@hackpandit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt
-<p> My Social Media Handel <br> <a href="https://www.linkedin.com/in/hackpandit/"> # LinkedIN</a> <br> <a href="https://twitter.com/hack_pandit"># Twitter</a> <br>
+<p> My Social Media Accounts <br> <a href="https://www.linkedin.com/in/hackpandit/"> # LinkedIN</a> <br> <a href="https://twitter.com/hack_pandit"># Twitter</a> <br>
 
 Feel free to email me at <!-- longlonglongcomment --><a href="mailto:bugs.hackpandit@gmail.com">bugs.hackpandit@gmail.com</a> .</p>
 
