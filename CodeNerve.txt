@@ -12,7 +12,7 @@ I have made some projects which you can find on my  <a href="https://github.com/
 <span id="a">root@hackpandit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt
 <p> My Social Media Accounts <br> <a href="https://www.linkedin.com/in/hackpandit/"> # LinkedIN</a> <br> <a href="https://twitter.com/hack_pandit"># Twitter</a> <br>
 
-Feel free to email me at <!-- longlonglongcomment --><a href="mailto:bugs.hackpandit@gmail.com">bugs.hackpandit@gmail.com</a> .</p>
+Feel free to email me at <!-- longlonglongcomment --><a href="mailto:bugs.hackpandit@gmail.com">ashish.chaubey1994@gmail.com</a> .</p>
 
 <span id="a">root@hackpandit</span>:<span id="b">~</span><span id="c">$</span> exit 
 
